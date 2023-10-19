@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=YuchengHe-thoughtworks&show_icons=true&include_all_commits=true)](https://github.com/YuchengHe-thoughtworks/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuchengHe-thoughtworks&layout=compact)](https://github.com/YuchengHe-thoughtworks/github-readme-stats)
+
+
 <!--
 **YuchengHe-thoughtworks/YuchengHe-thoughtworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
